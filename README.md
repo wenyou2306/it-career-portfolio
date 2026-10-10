@@ -22,15 +22,15 @@ Projects will be added as I develop and complete them.
 
 ## Current Goals
 
-• Strengthen my programming fundamentals
+- Strengthen my programming fundamentals
 
-• Build practical software projects
+- Build practical software projects
 
-• Learn version control using Git and Github
+- Learn version control using Git and Github
 
-• Prepare for entry-level IT opportunities
+- Prepare for entry-level IT opportunities
 
-Thanks for visiting my portfolio!
+## Thanks for visiting my portfolio!
 
 ## Learning Progress
 
