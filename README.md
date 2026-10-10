@@ -31,3 +31,7 @@ Current Goals
 • Prepare for entry-level IT opportunities
 
 Thanks for visiting my portfolio!
+
+## Learning Progress
+
+- Practising Git and Github workflow on my Macbook.
